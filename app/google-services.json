@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "335830597325",
+    "project_id": "onlineshopappjavamrlnt",
+    "storage_bucket": "onlineshopappjavamrlnt.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:335830597325:android:581a9d35b381844dfdb384",
+        "android_client_info": {
+          "package_name": "com.mrlnt.onlineshopapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEfBkVbHODTfYzwelydDoFUbe_XvWuG4Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
